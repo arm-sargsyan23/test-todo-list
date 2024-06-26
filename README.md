@@ -1,13 +1,12 @@
 # This is Todo list for your schedules of the day
 
----
+> Tools for using Todo list
 
----
+```diff
++Add: click on the button for add your schedules
 
-## Tools for using Todo list
++Added: click on the button for confirm the completed task
 
-**Add:** click on the button for add your schedules
+-Delete: click on the button for delete the task
 
-**Added:** click on the button for confirm the completed task
-
-**Delete:** click on the button for delete the task
+```
